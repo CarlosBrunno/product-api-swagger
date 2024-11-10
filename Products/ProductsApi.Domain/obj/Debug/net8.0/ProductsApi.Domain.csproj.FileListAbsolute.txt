@@ -1,0 +1,11 @@
+C:\Users\Carlos\source\repos\Products\ProductsApi.Domain\bin\Debug\net8.0\ProductsApi.Domain.deps.json
+C:\Users\Carlos\source\repos\Products\ProductsApi.Domain\bin\Debug\net8.0\ProductsApi.Domain.dll
+C:\Users\Carlos\source\repos\Products\ProductsApi.Domain\bin\Debug\net8.0\ProductsApi.Domain.pdb
+C:\Users\Carlos\source\repos\Products\ProductsApi.Domain\obj\Debug\net8.0\ProductsApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\source\repos\Products\ProductsApi.Domain\obj\Debug\net8.0\ProductsApi.Domain.AssemblyInfoInputs.cache
+C:\Users\Carlos\source\repos\Products\ProductsApi.Domain\obj\Debug\net8.0\ProductsApi.Domain.AssemblyInfo.cs
+C:\Users\Carlos\source\repos\Products\ProductsApi.Domain\obj\Debug\net8.0\ProductsApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\Products\ProductsApi.Domain\obj\Debug\net8.0\ProductsApi.Domain.dll
+C:\Users\Carlos\source\repos\Products\ProductsApi.Domain\obj\Debug\net8.0\refint\ProductsApi.Domain.dll
+C:\Users\Carlos\source\repos\Products\ProductsApi.Domain\obj\Debug\net8.0\ProductsApi.Domain.pdb
+C:\Users\Carlos\source\repos\Products\ProductsApi.Domain\obj\Debug\net8.0\ref\ProductsApi.Domain.dll
